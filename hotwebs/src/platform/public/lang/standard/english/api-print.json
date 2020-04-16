@@ -1,0 +1,14 @@
+{
+  "api-print-0010" : "Output to Excel",
+  "api-print-0011" : "Output to PDF",
+  "api-print-0001" : "Pop-ups have been blocked by your browser. Please check your browser settings",
+  "api-print-0012" : "Output to HTML",
+  "api-print-0002" : "No template Info found",
+  "api-print-0003" : "Print Preview",
+  "api-print-0004" : "Template ID parameter is empty",
+  "api-print-0005" : "Print Template Selection",
+  "api-print-0006" : "OK",
+  "api-print-0007" : "Cancel",
+  "api-print-0008" : "Select Template",
+  "api-print-0009" : "Output to File"
+}

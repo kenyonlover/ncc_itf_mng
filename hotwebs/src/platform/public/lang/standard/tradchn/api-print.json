@@ -1,0 +1,14 @@
+{
+  "api-print-0010" : "輸出到EXCEL文件",
+  "api-print-0011" : "輸出到PDF文件",
+  "api-print-0001" : "您的瀏覽器阻止了彈出式窗口,請查看瀏覽器設置",
+  "api-print-0012" : "輸出到HTML文件",
+  "api-print-0002" : "未查詢到任何範本資訊",
+  "api-print-0003" : "列印預覽",
+  "api-print-0004" : "範本ID參數為空",
+  "api-print-0005" : "列印範本選擇",
+  "api-print-0006" : "確定",
+  "api-print-0007" : "取消",
+  "api-print-0008" : "選擇範本",
+  "api-print-0009" : "輸出到文件"
+}

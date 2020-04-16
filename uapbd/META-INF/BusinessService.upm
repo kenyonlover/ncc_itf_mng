@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="gb2312"?>
+<module name="BusinessService">
+	<public>
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.IBusinessBillLog</interface>
+			<implementation>nc.impl.uapbd.service.BusinessBillLogImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.IBusinessBillSave</interface>
+			<implementation>nc.impl.uapbd.service.BusinessBillSaveImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate45BillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create45BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate46BillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create46BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate4ABillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create4ABillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate4CBillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create4CBillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate4DBillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create4DBillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreate4IBillVO</interface>
+			<implementation>nc.impl.uapbd.service.Create4IBillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateF0BillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateF0BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateF1BillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateF1BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateF2BillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateF2BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateF3BillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateF3BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateI9BillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateI9BillVOImpl</implementation>
+		</component>
+		
+		<component priority="0" singleton="true" remote="true" tx="CMT"  supportAlias="false">
+			<interface>nc.itf.uapbd.service.ICreateIABillVO</interface>
+			<implementation>nc.impl.uapbd.service.CreateIABillVOImpl</implementation>
+		</component>
+	</public>
+</module>

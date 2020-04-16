@@ -1,0 +1,20 @@
+{
+  "0011" : "Doc Generation Type",
+  "0001" : "Linked Query",
+  "0012" : "Please choose node and then extract path",
+  "0002" : "Display Upstream/Downstream Info",
+  "0013" : "Display All ",
+  "0003" : "Slide to Load More",
+  "0014" : "Path Extraction",
+  "0004" : "The provided pk or type is incorrect",
+  "0015" : "Upstream",
+  "0005" : "Slide to Load More",
+  "0016" : "Downstream",
+  "0006" : "SN",
+  "0017" : "Doc Name ",
+  "0007" : "Upstream/Downstream",
+  "0018" : "Doc No.",
+  "0008" : "Doc Name ",
+  "0009" : "Doc Type",
+  "0010" : "Doc No."
+}

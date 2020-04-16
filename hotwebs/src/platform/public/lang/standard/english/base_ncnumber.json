@@ -1,0 +1,8 @@
+{
+  "base-ncnumber-0006" : "Please enter valid data",
+  "base-ncnumber-0005" : "Entered value cannot be less than",
+  "base-ncnumber-0004" : "Entered value cannot be greater than",
+  "base-ncnumber-0003" : "The entered value must be between",
+  "base-ncnumber-0002" : "The maximum entry length is",
+  "base-ncnumber-0001" : "Prompt"
+}

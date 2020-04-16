@@ -1,0 +1,21 @@
+[
+    {
+        "codemode": "after",
+        "codescope": "g",
+        "dataoriginflag": "0",
+        "dr": "0",
+        "format": "yyyyMMdd",
+        "isautofill": "Y",
+        "isdefault": "N",
+        "iseditable": "N",
+        "isgetpk": "N",
+        "islenvar": "Y",
+        "isused": "Y",
+        "nbcrcode": "HD01",
+        "pk_billcodebase": "PK_CB",
+        "pk_group": "GLOBLE00000000000000",
+        "rulecode": "HD01",
+        "rulename": "业务系统接口配置",
+        "ts": "2020-04-10 14:45:54"
+    }
+]

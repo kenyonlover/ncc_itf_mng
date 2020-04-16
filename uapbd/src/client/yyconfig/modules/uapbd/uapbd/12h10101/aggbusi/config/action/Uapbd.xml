@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<actions>
+    <action>
+        <name>uapbd.uapbd12h10101.save</name>
+        <label>保存</label>
+        <clazz>nc.uapbd.uapbd.itfconfigbillvo.action.ItfConfigBillVOSaveAction</clazz>
+    </action>
+    <action>
+        <name>uapbd.uapbd12h10101.delete</name>
+        <label>删除</label>
+        <clazz>nc.uapbd.uapbd.itfconfigbillvo.action.ItfConfigBillVODeleteAction</clazz>
+    </action>
+    <action>
+        <name>uapbd.uapbd12h10101.querypage</name>
+        <label>列表查询</label>
+        <clazz>nc.uapbd.uapbd.itfconfigbillvo.action.ItfConfigBillVOQueryListAction
+        </clazz>
+    </action>
+    <action>
+        <name>uapbd.uapbd12h10101.querypagebypk</name>
+        <label>分页查询</label>
+        <clazz>nc.uapbd.uapbd.itfconfigbillvo.action.ItfConfigBillVOQueryByPksAction
+        </clazz>
+    </action>
+    <action>
+        <name>uapbd.uapbd12h10101.querycard</name>
+        <label>卡片查询</label>
+        <clazz>nc.uapbd.uapbd.itfconfigbillvo.action.ItfConfigBillVOQueryCardAction
+        </clazz>
+    </action>
+
+</actions>

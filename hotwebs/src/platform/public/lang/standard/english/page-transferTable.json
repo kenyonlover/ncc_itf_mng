@@ -1,0 +1,21 @@
+{
+  "page-transferTable-0020" : "Yes",
+  "page-transferTable-0010" : "Total",
+  "page-transferTable-0021" : "No",
+  "page-transferTable-0011" : "{n} lines in total",
+  "page-transferTable-0001" : "Remove",
+  "page-transferTable-0012" : "{n} pieces",
+  "page-transferTable-0002" : "Selected Lists",
+  "page-transferTable-0013" : "Clear",
+  "page-transferTable-0003" : "All Lists",
+  "page-transferTable-0014" : "Total",
+  "page-transferTable-0004" : "View Selected",
+  "page-transferTable-0015" : "Total: {n} pieces",
+  "page-transferTable-0005" : "Generate Purchase Doc",
+  "page-transferTable-0016" : "Processed",
+  "page-transferTable-0006" : "Action",
+  "page-transferTable-0017" : "Pieces",
+  "page-transferTable-0007" : "SN",
+  "page-transferTable-0018" : "Total",
+  "page-transferTable-0019" : "Line"
+}

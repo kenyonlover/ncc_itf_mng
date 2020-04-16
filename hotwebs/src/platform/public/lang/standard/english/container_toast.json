@@ -1,0 +1,10 @@
+{
+  "0008" : "Close",
+  "0007" : "Message",
+  "0006" : "Cancel",
+  "0005" : "OK",
+  "0004" : "Error",
+  "0003" : "Please note",
+  "0002" : "Help",
+  "0001" : "Successful"
+}

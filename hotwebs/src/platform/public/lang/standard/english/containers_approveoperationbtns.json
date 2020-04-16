@@ -1,0 +1,20 @@
+{
+  "010" : "Cancel",
+  "000" : "Cannot reject to the current node",
+  "011" : "Approve",
+  "001" : "Operation successful",
+  "012" : "Reset",
+  "002" : "Operation failed.",
+  "013" : "Rejection Processing Method",
+  "003" : "Primary Process",
+  "014" : "Repeat Process",
+  "004" : "Voucher Created By",
+  "015" : "Do not repeat process",
+  "005" : "Upper Level",
+  "016" : "OK",
+  "006" : "View Attachment",
+  "017" : "Repeat the process when submitted to the next phase; do not repeat the process when submitted to the rejecting phase",
+  "007" : "Reject to",
+  "008" : "Process Rejection",
+  "009" : "Confirm Rejection"
+}

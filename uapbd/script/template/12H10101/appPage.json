@@ -1,0 +1,32 @@
+[
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "N",
+    "isdefault": "Y",
+    "modifier": "~",
+    "pagecode": "12H10101_LIST",
+    "pagename": "业务系统接口配置列表页面",
+    "pageurl": "/nccloud/resources/uapbd/uapbd/12h10101/main/index.html#/list",
+    "parent_id": "PK_APP",
+    "parentcode": "12H10101",
+    "pk_apppage": "PK_PG01",
+    "resid": 12H10101_LIST,
+    "ts": "2020-04-10 14:45:54"
+  },
+  {
+    "creator": "~",
+    "dr": "0",
+    "iscarddefault": "Y",
+    "isdefault": "N",
+    "modifier": "~",
+    "pagecode": "12H10101_CARD",
+    "pagename": "业务系统接口配置卡片页面",
+    "pageurl": "/nccloud/resources/uapbd/uapbd/12h10101/main/index.html#/card",
+    "parent_id": "PK_APP",
+    "parentcode": "12H10101",
+    "pk_apppage": "PK_PG02",
+    "resid": 12H10101_CARD,
+    "ts": "2020-04-10 14:45:54"
+  }
+]

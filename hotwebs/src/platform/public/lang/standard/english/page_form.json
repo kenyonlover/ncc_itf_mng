@@ -1,0 +1,14 @@
+{
+  "page_form_maxlength_unit" : " chars",
+  "page-form-0010" : "The following field is too long",
+  "page-form-0011" : "en_i换算率输入格式错误，请检查！正确格式为",
+  "page-form-0001" : "The following fields cannot be blank",
+  "page-form-0002" : "The following field is invalid",
+  "page-form-0003" : "The maximum entry length is",
+  "page-form-0004" : "No",
+  "page-form-0005" : "Confirm To Enable",
+  "page-form-0006" : "Confirm Deactivating",
+  "page-form-0007" : "Yes",
+  "page-form-0008" : "Please enter valid data",
+  "page-form-0009" : "Prompt"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<userdefs>
+        <userdef>
+                <name>uapbd.ItfConfigBillVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+        <userdef>
+                <name>uapbd.ItfConfigItemVO</name>
+                <prefix>vdef</prefix>
+        </userdef>
+</userdefs>

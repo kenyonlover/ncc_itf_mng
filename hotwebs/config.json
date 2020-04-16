@@ -1,0 +1,8 @@
+{
+	"buildEntryPath": [
+		"./src/uapbd/*/*/*/index.js"
+	],
+	"proxy":"http://127.0.0.1:80",
+	"buildWithoutHTML": [ "uapbd/refer", "uap/refer" ],
+	"devPort": 3006
+}

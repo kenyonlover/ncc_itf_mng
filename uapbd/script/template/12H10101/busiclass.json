@@ -1,0 +1,68 @@
+[
+    {
+        "actiontype": "SAVE",
+        "classname": "N_HD01_SAVE",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    },
+    {
+        "actiontype": "APPROVE",
+        "classname": "N_HD01_APPROVE",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    },
+    {
+        "actiontype": "UNSAVEBILL",
+        "classname": "N_HD01_UNSAVEBILL",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    },
+    {
+        "actiontype": "UNAPPROVE",
+        "classname": "N_HD01_UNAPPROVE",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    },
+    {
+        "actiontype": "DELETE",
+        "classname": "N_HD01_DELETE",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    },
+    {
+        "actiontype": "SAVEBASE",
+        "classname": "N_HD01_SAVEBASE",
+        "dr": "0",
+        "isbefore": "N",
+        "pk_billtype": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_businesstype": "~",
+        "pk_group": "~",
+        "ts": "2020-04-10 14:45:54"
+    }
+]

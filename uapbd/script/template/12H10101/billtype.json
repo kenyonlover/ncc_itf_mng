@@ -1,0 +1,28 @@
+[
+    {
+        "billcoderule": "~",
+        "billtypename": "业务系统接口配置",
+        "canextendtransaction": "Y",
+        "component": "itfconfig",
+        "isaccount": "Y",
+        "isapprovebill": "Y",
+        "isBizflowBill": "N",
+        "isEditableProperty": "N",
+        "isEnableButton": "N",
+        "isenabletranstypebcr": "N",
+        "islightbill": "Y",
+        "isrejectuneditableproperty": "N",
+        "isroot": "N",
+        "issupportmobile": "Y",
+        "istransaction": "N",
+        "isworkflowcanautoapprove": "N",
+        "ncbrcode": "~",
+        "nodecode": "12H10101",
+        "parentbilltype": "~",
+        "pk_billtypecode": "HD01",
+        "pk_billtypeid": "PK_B",
+        "pk_org": "GLOBLE00000000000000",
+        "systemcode": "UAPBD",
+        "webnodecode": "~"
+    }
+]
